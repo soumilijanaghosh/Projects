@@ -1,0 +1,4 @@
+language,model,original,transcribed,wer,gen_time_sec,audio_duration_sec,rtf,speaker_similarity
+English,Chatterbox-ML,This is the test of the multilingual voice,This is the test of the multilingual voice.,0.125,155.3,4.08,38.063,0.916
+Arabic,Chatterbox-ML,هذا اختبار للصوت متعدد اللغات,هذا اختبار للصوت متعدد اللغات,0.0,188.67,5.44,34.683,0.823
+Hindi,Chatterbox-ML,यह बहुभाषी आवाज़ का परीक्षण है,ये बहुभाशी आवास का परिक्षन है।,0.8333,119.39,2.72,43.893,0.809

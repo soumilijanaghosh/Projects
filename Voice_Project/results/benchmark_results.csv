@@ -1,0 +1,4 @@
+language,original,transcribed,wer,gen_time_sec,audio_duration_sec,rtf,speaker_similarity
+English,This is the test of the multilingual voice,This is the test of the multilingual voice.,0.125,4.22,4.78,0.884,0.836
+Arabic,هذا اختبار للصوت متعدد اللغات,هذا اختبار للصوت متعدد اللغات,0.0,1.37,2.97,0.461,0.764
+Hindi,यह बहुभाषी आवाज़ का परीक्षण है,यह बोबाशी आवास का परिप्शन है,0.5,2.8,5.89,0.475,0.849

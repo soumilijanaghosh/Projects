@@ -1,0 +1,11 @@
+language,model,wer,gen_time_sec,audio_duration_sec,rtf,speaker_similarity,mos
+Arabic,Chatterbox-ML,0.0,188.67,5.44,34.683,0.823,
+Arabic,MMS-TTS,0.2,5.49,4.05,1.357,0.514,3.3
+Arabic,XTTS-v2,0.0,1.37,2.97,0.461,0.764,4.2
+Bengali,MMS-TTS,0.8333,4.27,4.26,1.003,0.467,1.9
+English,Chatterbox-ML,0.125,155.3,4.08,38.063,0.916,
+English,MMS-TTS,0.125,2.79,2.72,1.025,0.485,3.5
+English,XTTS-v2,0.125,4.22,4.78,0.884,0.836,4.3
+Hindi,Chatterbox-ML,0.8333,119.39,2.72,43.893,0.809,
+Hindi,MMS-TTS,0.5,3.46,2.59,1.336,0.483,2.8
+Hindi,XTTS-v2,0.5,2.8,5.89,0.475,0.849,2.5

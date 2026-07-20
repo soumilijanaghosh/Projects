@@ -1,0 +1,5 @@
+language,model,original,transcribed,wer,gen_time_sec,audio_duration_sec,rtf,speaker_similarity
+English,MMS-TTS,This is the test of the multilingual voice,This is the test of the multilingual voice.,0.125,2.79,2.72,1.025,0.485
+Arabic,MMS-TTS,هذا اختبار للصوت متعدد اللغات,هذا اختبار للصوت متعدد لغالي,0.2,5.49,4.05,1.357,0.514
+Hindi,MMS-TTS,यह बहुभाषी आवाज़ का परीक्षण है,यह बहुबाशी अवाज का परिक्षन है,0.5,3.46,2.59,1.336,0.483
+Bengali,MMS-TTS,এটি একটি বহুভাষিক ভয়েস ক্লোনিং পরীক্ষা,এতির একটি বহুভাশিক ভয়েশ ক্লনিন পরিক্খা,0.8333,4.27,4.26,1.003,0.467

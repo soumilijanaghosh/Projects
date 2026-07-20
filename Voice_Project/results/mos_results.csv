@@ -1,0 +1,11 @@
+language,model,mos
+English,XTTS-v2,4.3
+English,Chatterbox,4.5
+English,MMS-TTS,3.5
+Arabic,XTTS-v2,4.2
+Arabic,Chatterbox,4.3
+Arabic,MMS-TTS,3.3
+Hindi,XTTS-v2,2.5
+Hindi,Chatterbox,2.2
+Hindi,MMS-TTS,2.8
+Bengali,MMS-TTS,1.9
